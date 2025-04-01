@@ -1464,8 +1464,16 @@
     ['712' M_LAPP ['773', '"LAPP"']]
     ['713' M_ZEROBIT_DYNAMIC ['774', '"ZEROBIT DYNAMIC"']]
     ['714' M_HAVELLS ['775', '"havells"']]
-    ['715' M_ABB___RESERVED ['43954', '"ABB - reserved"']]
-    ['716' M_BUSCH_JAEGER_ELEKTRO___RESERVED ['43959', '"Busch-Jaeger Elektro - reserved"']]
+    ['715' M_MULLER_INTUITIV ['776', '"Muller Intuitiv"']]
+    ['716' M_TASKIT_GMBH ['777', '"taskit GmbH"']]
+    ['717' M_COSTER_GROUP ['778', '"Coster Group"']]
+    ['718' M_NXP_SEMICONDUCTOR ['779', '"NXP Semiconductor"']]
+    ['719' M_COGCONS ['780', '"CogCons"']]
+    ['720' M_MICRO_TEK_SRL_F_M_C_TRADE_MARK ['781', '"Micro Tek Srl (F.M.C trade mark)"']]
+    ['721' M_ORENDA_ELECTRIC ['782', '"Orenda Electric"']]
+    ['722' M_ERSE_KABLO ['783', '"ERSE KABLO"']]
+    ['723' M_ABB___RESERVED ['43954', '"ABB - reserved"']]
+    ['724' M_BUSCH_JAEGER_ELEKTRO___RESERVED ['43959', '"Busch-Jaeger Elektro - reserved"']]
     
 ]
 
